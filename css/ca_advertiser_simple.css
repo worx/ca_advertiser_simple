@@ -1,0 +1,18 @@
+/* CA  Advertiser Simple CSS */
+  /* List Template One */
+	#ca-advertisers-simple-template-one h2.title {text-align: center;}
+	#ca-advertisers-simple-template-one .views-field-field-ca-simple-advertiser-image-fid {float: left; margin-right: 10px;}
+  #ca-advertisers-simple-template-one .views-field-teaser .field-content > p {margin-top: 0;}
+  #ca-advertisers-simple-template-one .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-advertisers-simple-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-advertisers-simple-template-one .views-row-last .views-field-nothing {border: none;}
+	
+  /* List Template Two */
+	#ca-advertisers-simple-template-two h2.title {text-align: center;}
+	#ca-advertisers-simple-template-two .views-field-field-ca-simple-advertiser-image-fid {float: left; margin-right: 5px;}
+  #ca-advertisers-simple-template-two .views-field-teaser .field-content > p {margin-top: 0;}
+  #ca-advertisers-simple-template-two .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-advertisers-simple-template-two .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-advertisers-simple-template-two .views-row-last .views-field-nothing {border: none;}
+	
+	.node-type-ca-simple-advertiser .field-field-ca-simple-advertiser-image {float: left; margin-right: 10px;}
